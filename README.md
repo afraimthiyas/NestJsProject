@@ -114,11 +114,8 @@ This is a **NestJS** project that implements a **CRUD (Create, Read, Update, Del
 
 Nest is an MIT-licensed open source project. It grows with support from the community. If you'd like to support the project, please visit [here](https://docs.nestjs.com/support).
 
-## Stay in Touch
-
-- **Author**: Arun Chaudhary
-- **Email**: clarun2511@gmail.com
-
+##
+- 
 ## License
 
 This project is licensed under the [MIT License](https://github.com/nestjs/nest/blob/master/LICENSE).
